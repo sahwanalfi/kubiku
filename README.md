@@ -1,5 +1,5 @@
-# kubik-bot
-Kubik-bot untuk para maniak receh
+# kubiku
+Kubiku untuk para maniak receh
 
 # Cara mendapatkan config (deviceCode,tk,token ... etc)
 
