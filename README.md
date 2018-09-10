@@ -1,0 +1,2 @@
+# kubiku
+BOT UNTUK KUBIK
